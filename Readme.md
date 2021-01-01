@@ -3,8 +3,11 @@ This repository provides a tensorflow implementation of the srnn for group activ
 
 ### Prerequisite
 Data = https://github.com/mostafa-saad/deep-activity-rec
+
 Initial Alexnet weights = http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/bvlc_alexnet.npy
+
 Python - 2.7.6
+
 Tensorflow - 1.2
 
 ### Usage Details
