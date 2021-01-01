@@ -2,12 +2,9 @@
 This repository provides a tensorflow implementation of the srnn for group activity recognition [Structural Recurrent Neural Network (SRNN) for Group Activity Analysis](http://pages.iai.uni-bonn.de/gall_juergen/download/jgall_groupactivity_wacv18.pdf).
 
 ### Prerequisite
-Data = https://github.com/mostafa-saad/deep-activity-rec
-
+Data = https://github.com/mostafa-saad/deep-activity-rec 
 Initial Alexnet weights = http://www.cs.toronto.edu/~guerzhoy/tf_alexnet/bvlc_alexnet.npy
-
 Python - 2.7.6
-
 Tensorflow - 1.2
 
 ### Usage Details
