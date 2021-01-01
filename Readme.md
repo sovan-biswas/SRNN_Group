@@ -1,5 +1,5 @@
 # Structural Recurrent Neural Network (SRNN) for Group Activity Analysis
-    This repository provides a tensorflow implementation of the srnn for group activity recognition [Structural Recurrent Neural Network (SRNN) for Group Activity Analysis](http://pages.iai.uni-bonn.de/gall_juergen/download/jgall_groupactivity_wacv18.pdf).
+This repository provides a tensorflow implementation of the srnn for group activity recognition [Structural Recurrent Neural Network (SRNN) for Group Activity Analysis](http://pages.iai.uni-bonn.de/gall_juergen/download/jgall_groupactivity_wacv18.pdf).
 
 ### Prerequisite
     Data = https://github.com/mostafa-saad/deep-activity-rec 
